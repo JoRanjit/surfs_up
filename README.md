@@ -11,28 +11,28 @@
 
  Step #1 June temperature Data collection:
             
-   * Created a list of temparatures recorded in June from the 'Measurement' table
+   * Created a list of temperatures recorded in June from the 'Measurement' table
       ![June Temp List]( https://github.com/JoRanjit/surfs_up/blob/main/images/June_temp_list.PNG)
         
-   * Created a dateframe of June temperatures from the above list
+   * Created a dataframe of June temperatures from the above list
    
       ![June Temp DataFrame]( https://github.com/JoRanjit/surfs_up/blob/main/images/June_temp_dataframe.PNG )
         
-   * Generated the summary statistices of June temperatures using describe() method.
+   * Generated the summary  statistics of June temperatures using describe() method.
    
       ![June temp statistics]( https://github.com/JoRanjit/surfs_up/blob/main/images/June_temp_summary_stats.PNG) 
         
  Step #2: December temperature Data collection:        
     
-   * Created a list of temparatures recorded in December from the 'Measurement' table
+   * Created a list of temperatures recorded in December from the 'Measurement' table
 
        ![December Temp List]( https://github.com/JoRanjit/surfs_up/blob/main/images/Dec_temp_list.PNG)
         
-   * Created a dateframe of December temperatures from the above list
+   * Created a dataframe of December temperatures from the above list
    
         ![December Temp DataFrame]( https://github.com/JoRanjit/surfs_up/blob/main/images/December_temp_dataframe.PNG)
         
-   * Generated the summary statistices of December temperatures using describe() method.
+   * Generated the summary  statistics of December temperatures using describe() method.
    
        ![December temp statistics]( https://github.com/JoRanjit/surfs_up/blob/main/images/Dec_temp_summary_stats.PNG)
         
@@ -47,4 +47,4 @@
    *  The analysis should also include the rain-fall/precipitation information which would help the customer make more informed decisions.
    *  Analysis spans 6-7 years of data starting from 2010. This dataset could be narrowed down to pull more recent year's data,
       which will be more accurate than this wide date- range.
-   *  Use histograms to view the trend of the tempaerature and precipitation over the time period. 
+   *  Use histograms to view the trend of the  temperature and precipitation over the time period. 
