@@ -3,7 +3,7 @@
 ### This project analyses the temperature data for the months of June and December in Oahu, Hawaii.
 ### This will help the customer to determine if his business idea is sustainable year-round.
 
-#### For this analysis, we used python and the Sqlite database - "Hawaii.sqlite" which contains 2 tables:
+#### For this analysis, we used python and Sqlite database - "Hawaii.sqlite" with weather data stored in 2 tables:
     * measurement
     * stations
     
