@@ -38,12 +38,15 @@
         
 ##### Findings:   
     
-   *  Average temperature remains a very pleasant 71 thru' 74 degrees around the year
-   *  But max temperatures could go upto 85 degrees in June and 83 degrees in December
+   *  Average temperature remains a very pleasant 71 thru' 74 degrees around the year. 
+      ---  This is an ideal weather - not too hot or not too cold. With some marketing and advertising campaigns - ICE cream sales should see some good business. 
+   *  But max temperatures could go upto 85 degrees in June and 83 degrees in December. 
+      ---   This means ICE cream sales are going to spike in summer due to these hot temperatures. The ideal weather for an ICE Cream shop.
    *  Slight disadvantage on the dataset is that June dataset has about 1700 recordings, while December is only about 1500.
+      ---   This means that the December data may not be as accurate as June data, but still good enough to get a good analysis.
     
 ##### Improvements:  
-    
+
    *  The analysis should also include the rain-fall/precipitation information which would help the customer make more informed decisions.
    *  Analysis spans 6-7 years of data starting from 2010. This dataset could be narrowed down to pull more recent year's data,
       which will be more accurate than this wide date- range.
