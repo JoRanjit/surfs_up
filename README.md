@@ -47,7 +47,7 @@
     
 ##### Improvements:  
 
-   *  The analysis should also include the rain-fall/precipitation information which would help the customer make more informed decisions.
-   *  Analysis spans 6-7 years of data starting from 2010. This dataset could be narrowed down to pull more recent year's data,
-      which will be more accurate than this wide date- range.
-   *  Use histograms to view the trend of the  temperature and precipitation over the time period. 
+   *  The analysis should also include the rain-fall/precipitation information which would help the customer make more informed decisions as the 
+      Ice cream sales might be lower during rainy season.
+   *  Analysis spans 6-7 years of data starting from 2010. This dataset could be narrowed down to pull more recent year's data, which will be more accurate than this wide date- range.
+   *  Use histograms to view the trend of the  temperature and precipitation over the time period. With a good understanding of the temperature and rainfall patterns over the years - customer could predict the Ice cream sales trend accordingly.
